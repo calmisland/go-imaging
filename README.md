@@ -1,6 +1,6 @@
 # Imaging
 
-[![GoDoc](https://godoc.org/github.com/disintegration/imaging?status.svg)](https://godoc.org/github.com/disintegration/imaging)
+[![GoDoc](https://godoc.org/github.com/calmisland/go-imaging?status.svg)](https://godoc.org/github.com/calmisland/go-imaging)
 [![Build Status](https://travis-ci.org/disintegration/imaging.svg?branch=master)](https://travis-ci.org/disintegration/imaging)
 [![Coverage Status](https://coveralls.io/repos/github/disintegration/imaging/badge.svg?branch=master&service=github)](https://coveralls.io/github/disintegration/imaging?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/disintegration/imaging)](https://goreportcard.com/report/github.com/disintegration/imaging)
@@ -12,11 +12,11 @@ as an input, and return a new image of `*image.NRGBA` type (32bit RGBA colors, n
 
 ## Installation
 
-    go get -u github.com/disintegration/imaging
+    go get -u github.com/calmisland/go-imaging
 
 ## Documentation
 
-http://godoc.org/github.com/disintegration/imaging
+http://godoc.org/github.com/calmisland/go-imaging
 
 ## Usage examples
 
